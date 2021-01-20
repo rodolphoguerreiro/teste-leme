@@ -1,0 +1,15 @@
+/vendor/*
+/tests/*
+/tmp/*
+/logs/*
+/mailers/*
+
+/node_modules/*
+
+/webroot/fonts/*
+/webroot/storage
+/webroot/js/plugins/*
+/webroot/js/translations/*
+
+composer.lock
+package-lock.json
